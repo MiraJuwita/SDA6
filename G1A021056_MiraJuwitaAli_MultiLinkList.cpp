@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+	cout << "Bentuk III - Contoh Relasi M-N" << endl;
     List_parent LP;
     List_child LC;
     List_relasi LR;
